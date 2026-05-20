@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Test1importProject
+  gitServerName: sag git
+  gitUrl: https://github.com/sagar-yadav-IBM-2
+  gitUsername: sagar-yadav-IBM-2
+  gitBranch: main
